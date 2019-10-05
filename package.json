@@ -1,0 +1,9 @@
+{
+  "name": "kanto",
+  "version": "0.0.1",
+  "description": "Pokémon Red and Blue calculations library",
+  "main": "index.js",
+  "repository": "https://github.com/tkers/kanto.git",
+  "author": "Tijn Kersjes <tijn@divbyzero.nl>",
+  "license": "MIT"
+}
