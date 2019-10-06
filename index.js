@@ -1,1 +1,2 @@
-module.exports = require("./lib/species");
+exports.species = require("./lib/species");
+exports.pokemon = require("./lib/pokemon");
