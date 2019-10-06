@@ -5,5 +5,12 @@
   "main": "index.js",
   "repository": "https://github.com/tkers/kanto.git",
   "author": "Tijn Kersjes <tijn@divbyzero.nl>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "tape './**/*.spec.js' | tap-spec"
+  },
+  "devDependencies": {
+    "tap-spec": "^5.0.0",
+    "tape": "^4.11.0"
+  }
 }
